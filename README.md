@@ -18,12 +18,15 @@ This library has similar features of gson/jackson. Its purpose is to easily hand
 
 ## PhpStorm 类型提示示例
 - 原始数据类型
+
   
-    ![image](https://github.com/user-attachments/assets/4c5654a2-d964-4f51-aea3-d7b083d0d11f)
+    ![image](https://github.com/user-attachments/assets/52ae33d2-484d-42b2-9505-efc39821285b)
 - 反序列化的结果有类型，和传入的类类型一致
-    ![image](https://github.com/user-attachments/assets/4e201cc1-3832-4619-84e7-27dd009fd3c7)
+    ![image](https://github.com/user-attachments/assets/85d6c1e8-0a3b-4d37-9223-51ea284ec31a)
+
 - 能识别其中嵌套的类的成员类型、编码时有代码提示
-    ![image](https://github.com/user-attachments/assets/d82dba62-9035-4ff2-8b24-f80bca7348fe)
+    ![image](https://github.com/user-attachments/assets/8f981617-ae18-4c75-a77e-04b0755f6076)
+
 
 ## 使用示例
 
