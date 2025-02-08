@@ -1,5 +1,7 @@
 This library has similar features of gson/jackson. Its purpose is to easily handle the conversion between PHP objects and JSON or XML.
 
+[PHP-Bean-JSON-XML](https://github.com/imflyou/PHP-Bean-JSON-XML)  是一个强大的PHP库，旨在简化PHP对象与JSON或XML之间的转换。通过使用注解（Attributes）和工具类，PHP-Bean-JSON-XML 提供了一种简洁而高效的方式来处理对象序列化和反序列化，同时支持数据验证和属性别名等高级功能。
+
 ## 主要功能
 - 对象与JSON/XML的转换：自动将PHP对象转换为JSON字符串或XML字符串，反之亦然，减少了手动编写转换代码的工作量。
 - 类型提示：在 PhpStorm 中支持代码提示会有代码提示
@@ -29,6 +31,11 @@ This library has similar features of gson/jackson. Its purpose is to easily hand
 
 
 ## 使用示例
+
+### 安装方法
+```shell
+composer require imflyou/php-bean-json-xml
+```
 
 ### 类成员为基础数据类型
 
